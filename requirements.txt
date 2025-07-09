@@ -1,0 +1,16 @@
+#any library i tried during the making of this project, not all might be used but tried sometime during implementation
+pandas
+numpy
+scikit-learn
+transformers
+requests
+jinja2
+streamlit
+scikit-surprise
+pytest
+python-dotenv
+joblib
+stanza
+rapidfuzz
+sentence-transformers
+langid
