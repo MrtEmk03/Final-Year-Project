@@ -15,7 +15,7 @@ if not os.path.exists(os.path.expanduser('~/stanza_resources')):
     stanza.download('en')  #English model
     stanza.download('tr')  #Turkish model
 
-API_KEY = "6d72dd32cbd55bb1ff6070e18a4b980e"
+API_KEY = ""
 
 def get_dynamic_response(category, language="en"):
     """
